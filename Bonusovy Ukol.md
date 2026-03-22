@@ -1,0 +1,1 @@
+Bonusovy ukol- vypsat jen stroje M2
